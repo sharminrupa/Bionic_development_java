@@ -1,0 +1,288 @@
+/* Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) { 
+    
+    
+
+.widget-2 .icon{
+    padding: 0 26%;
+    }
+    
+   .jumbotron input{
+    margin-left:  28%;
+}
+
+    
+}
+/* Large device (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{
+    
+    
+    
+     .top-header{
+        min-height: 40px;
+         font-size: 13px;
+    }
+    
+    .widget li i a{
+        text-align: center;
+        font-size: 13px;
+    }
+    
+   .widget .notice{
+        text-align: center;
+        font-size: 13px;
+    }
+    
+    
+   
+    
+    .top-header ul li
+{
+    float: left;
+    position: relative;
+    margin-right: 5px;
+}
+
+
+
+.widget{
+    margin-top: 5px;
+}
+
+
+.widget-2 .icon{
+    margin-top: 5px;
+    padding: 5px 48px;
+    margin-top: 10px
+}
+
+
+.icon ul li a i{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    width: 24px;
+    height: 24px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+     margin-right: 0px;
+    
+    
+}
+    
+    
+   /*<!----about start---->*/
+    
+    .widget-3{
+        
+    }    
+    
+    
+  .jumbotron {
+      background-color: #f4511e;
+      color: #fff;
+      padding: 100px 25px;
+      font-family: Montserrat, sans-serif;
+  }
+
+.jumbotron input{
+    margin-left:  25%;
+}
+ 
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+    .top-header{
+        min-height: 40px;
+        font-size: 12px;
+    }
+    
+    .widget li i a{
+        text-align: center;
+        font-size: 12px;
+    }
+    
+   .widget .notice{
+        text-align: center;
+        font-size: 12px;
+    }
+    
+    
+   
+    
+    .top-header ul li
+{
+    float: left;
+    position: relative;
+    margin-right: 5px;
+}
+
+
+
+.widget{
+    margin-top: 5px;
+}
+
+
+.widget-2 .icon{
+    margin-top: 5px;
+    padding: 0 20px;
+    margin-top: 10px
+}
+
+
+.icon ul li a i{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    width: 24px;
+    height: 24px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+     margin-right: 0px;
+    
+    
+}
+
+    
+    
+    .p-tag{
+    font-size: 14.5px;
+}
+     .wrapper{
+        font-size: 13px;
+    }
+    /*---------------about--------*/
+
+.jumbotron input{
+    margin-left:  10%;
+}
+
+/*---------------about--------*/
+
+    
+    }
+    
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .top-header{
+        min-height: 50px;
+    }
+    
+    .widget li i a{
+        text-align: center;
+        font-size: 15px;
+    }
+    
+    
+     .widget-2 .icon{
+    padding: 0 25%;
+    }
+   
+    
+   .widget .notice{
+        text-align: center;
+        font-size: 15px;
+    }
+    
+    
+    .top-header .icon{
+        display: none;
+    }    
+   
+    
+   .footer-p{
+    text-align: justify;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+    
+    
+    .p-tag{
+    font-size: 14px;
+}
+    
+    
+    .wrapper{
+        font-size: 9px;
+    }
+    
+    
+/*---------------about--------*/
+
+.jumbotron input{
+    margin-left:  2%;
+}
+
+/*---------------about--------*/
+
+    
+    
+    
+}
+
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media  (max-width: 575.98px)
+{
+    .top-header{
+        min-height: 50px;
+    }
+    
+    .widget li i a{
+        text-align: center;
+        font-size: 12px;
+    }
+    
+    .widget .notice{
+        text-align: center;
+        font-size: 15px;
+    }
+    
+    .widget-2 .icon{
+    padding: 0 36%;
+    }
+    
+
+    
+    .top-header .icon{
+        display: none;
+    }    
+   
+    
+    .p-tag{
+    font-size: 15px;
+    margin-bottom: 5px;    
+}
+   
+
+ .work1{
+        margin-top: 70px;
+    }
+
+.jumbotron btn-1{
+    margin-left:  40%;
+    margin-top: 20px;
+}
+
+  }
+
+/*---------------about--------*/
+/*---------------about--------*/
+
+ 
+
+
+/*---------------about--------*/
